@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @thanhLoc1087
+# Hi, I’m @thanhLoc1087
 - 👀 I’m interested in coding and cooking
 - 🌱 I’m currently learning Software Engineering at HCM University of Information Technology 
 - 📫 Contact me at: thanhlocne246@gmail.com
