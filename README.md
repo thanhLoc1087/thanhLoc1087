@@ -1,5 +1,6 @@
 # Hi, I’m @thanhLoc1087
-- Software Engineering graduated from HCM University of Information Technology in 2025
+- Software Engineer - Back-end
+- Graduated from HCM University of Information Technology in 2025
 - Contact me at: thanhlocne246@gmail.com
 
 <!---
