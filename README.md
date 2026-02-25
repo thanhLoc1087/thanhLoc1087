@@ -1,5 +1,5 @@
 # Hi, I’m @thanhLoc1087
-- I major in Software Engineering at HCM University of Information Technology 
+- Software Engineering graduated from HCM University of Information Technology in 2025
 - Contact me at: thanhlocne246@gmail.com
 
 <!---
